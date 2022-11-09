@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aveeksinha
 -      Currently, I am pursuing B.Tech CSE from Lovely Professional University
-- 👀 I’m interested in Machine Learning, Python, Data Science
-- 🌱 I Talk about machine learning, deep learning.
-- 💞️ I’m interested in role of machine learning engineer, data scientist.
+- 👀 I’m interested in Machine Learning, Python, Data Science, DeVops
+- 🌱 I Talk about machine learning, deep learning and Devops
+- 💞️ I’m interested in role of machine learning engineer, DeVops,data scientist.
 - 📫 📧aveeksinha01@gmail.com
             Phone:- 9507208532
 <!---
