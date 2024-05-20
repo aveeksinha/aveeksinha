@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aveeksinha
--      Currently, I am pursuing B.Tech CSE from Lovely Professional University
+-      Currently, I am Working as Software Engineer in Cognizant 
 - 👀 I’m interested in Machine Learning, Python, Data Science, DeVops
 - 🌱 I Talk about machine learning, deep learning and Devops
 - 💞️ I’m interested in role of machine learning engineer, DeVops,data scientist.
